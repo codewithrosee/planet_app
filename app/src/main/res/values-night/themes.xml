@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.PlanetInfo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+
+        <!-- Status bar color. -->
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
